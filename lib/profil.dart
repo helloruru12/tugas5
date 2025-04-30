@@ -21,7 +21,7 @@ class Profil extends StatelessWidget {
               ),
               SizedBox(height: 16),
               Text(
-                'Amara Rahmaning Umiadi',
+                'Amara Rahmaning',
                 style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
               ),
               SizedBox(height: 4),
